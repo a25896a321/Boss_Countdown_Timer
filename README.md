@@ -1,3 +1,5 @@
+《詳細說明請看壓縮檔內使用指南》
+
 ● 程序名稱：Countdown_Timer_v1.1
 
 ● 開發人員：oo_jump
@@ -20,7 +22,7 @@ This program is a precise countdown tool designed for gaming assistance. It supp
 方法 2：右鍵程式執行檔 → 選擇內容 → 選擇相容性 → 勾選「系統管理員執行」。
 
 
-🔎炎魔懶人包《詳細說明請看資料夾內使用指南》
+🔎炎魔懶人包
 
 載入炎魔提示字：點選左下角設定器 → 讀取炎魔資料 → 回到主介面
 
