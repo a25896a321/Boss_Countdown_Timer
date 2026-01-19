@@ -1,8 +1,9 @@
 # Countdown_Timer_Mini_v1.0
-> **此為迷你精簡版！此為迷你精簡版！此為迷你精簡版！**
 ![Version](https://img.shields.io/badge/Version-v1.1-blue)
 ![OS](https://img.shields.io/badge/OS-Windows-green)
 ![License](https://img.shields.io/badge/License-Copyright-red)
+
+> **此為迷你精簡版！此為迷你精簡版！此為迷你精簡版！**
 
 該程式是一款專為遊戲輔助設計的倒數計時工具，支援多組獨立計時、自定義音效及透明介面，幫助玩家精準掌控 BOSS 機制與技能循環。
 
