@@ -1,4 +1,4 @@
-# Countdown_Timer_v1.1
+# Countdown_Timer_Mini_v1.0
 
 ![Version](https://img.shields.io/badge/Version-v1.1-blue)
 ![OS](https://img.shields.io/badge/OS-Windows-green)
@@ -20,48 +20,25 @@ This program is a precise countdown tool designed for gaming assistance. It supp
 * **方法 2：** 右鍵點擊程式執行檔 → 內容 → 相容性 → 勾選「以系統管理員身分執行此程式」。
 
 ---
-
-## 🔎 炎魔懶人包 (Zakum Quick Guide)
-
-1. **載入提示字：** 點選左下角「設定器」 → 點選「讀取炎魔資料」 → 回到主介面。
-2. **簡易使用流程：**
-    * 開啟計時器模式：`F1`
+**簡易使用流程：**
     * 火眼召喚出特效：`Num /`
     * 本體切換模式：`Tab`
     * 遇到機制魔方重置：`` ` `` (重音符號鍵)
-    * 遇到延遲需加時：`CapsLock`
     * 結束關閉：`Num *`
 
 **⚠️ 實戰技巧：**
-* 該出黑水、魔方卻沒出時：小招加時 5s、召喚加時 10s。
+* 火眼召喚按 " / "
+* 進本體按 " TAB "
+* 遇到機制魔方按 " ` "
 * 本體 3 階建議減少手動加時動作。
 * 本體 3 階的機制魔方為單顆形式。
 
 ---
-
 ## 🖥️ 功能說明 (Features)
-
 * **置頂及語言 (Stay on Top & Language)：** 設定置頂避免被擋住、調整中英語言。
 * **起始計時器 (Start Timer)：** 亮綠色顯示，適合固定間隔事件，具備自動循環功能。
 * **回合計時器 (Round Timer)：** 雙階段切換。回合 1（粉紫色）結束後，自動切換至回合 2（亮綠色）。
 * **透明度 (Transparency)：** 透過拉桿可調整 5% - 100% 透明度。
-
----
-
-## ⌨️ 操作快捷鍵 (Hotkeys)
-
-| 按鍵 (Key) | 功能描述 (Description) |
-| :--- | :--- |
-| Num/ | **啟動起始計時**：啟動後會自動暫停回合計時器。 |
-| ` | **開始/重置回合**：每次按下皆會從回合 1 重新開始。 |
-| Num* | **全部停止**：立即停止所有計時。 |
-| CapsLock | **補時**：針對「運行中」的計時器微調增加時間。 |
-| Num- | **扣時**：針對「運行中」的計時器微調減少時間。 |
-| F1 | **計時器模式**：切換至精簡介面，不遮擋遊戲畫面。 |
-| F2 | **站位方塊標記**：顯示 1 塊畫布，用於標記玩家站位。 |
-| F3 | **備註筆記**：置頂筆記區，紀錄隨手資訊。 |
-| Num . | **Buff 提示**：按下對應技能熱鍵後開始倒數，時間到播放音效。 |
-| Num + | **時間筆記**：無音效提示，可設定時間鐘並操控管理該時間。 |
 
 ---
 
@@ -83,4 +60,4 @@ This program is a precise countdown tool designed for gaming assistance. It supp
 *(This program provides only countdown and visual notification features. It does not use any automation modules, simulation scripts, or automation packages. The program does not read or modify game memory, nor does it possess the ability to alter game data or perform automated in-game actions. While using this program does not pose a hacking risk, users should still comply with the Terms of Service of their respective games. The developer shall not be held liable for any legal or account-related disputes arising from the use of this software.)*
 
 ---
-**Developer:** oo_jump | **OS:** Windows | **Version:** v1.1
+**Developer:** oo_jump | **OS:** Windows | **Version:** Mini_v1.0
