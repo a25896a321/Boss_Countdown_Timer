@@ -1,5 +1,5 @@
 # Countdown_Timer_Mini_v1.0
-
+> **此為迷你精簡版！此為迷你精簡版！此為迷你精簡版！**
 ![Version](https://img.shields.io/badge/Version-v1.1-blue)
 ![OS](https://img.shields.io/badge/OS-Windows-green)
 ![License](https://img.shields.io/badge/License-Copyright-red)
