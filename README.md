@@ -22,10 +22,10 @@ This program is a precise countdown tool designed for gaming assistance. It supp
 
 ---
 **簡易使用流程：**
-    * 火眼召喚出特效：`Num /`
-    * 本體切換模式：`Tab`
-    * 遇到機制魔方重置：`` ` `` (重音符號鍵)
-    * 結束關閉：`Num *`
+* 火眼召喚出特效：`Num /`
+* 本體切換模式：`Tab`
+* 遇到機制魔方重置：`` ` `` (重音符號鍵)
+* 結束關閉：`Num *`
 
 **⚠️ 實戰技巧：**
 * 火眼召喚按 " / "
